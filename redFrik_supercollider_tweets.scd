@@ -1,5 +1,5 @@
 // redFrik's SuperCollider tweets on X/Twitter.
-
+// https://x.com/redFrik
 
 // Important keyboard shorcuts
 // cmd-.              Stop playing audio.
